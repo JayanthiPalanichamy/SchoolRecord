@@ -1,4 +1,6 @@
-package main.java;
+package main.java.studentMain;
+
+import main.java.utils.School;
 
 public class SchoolMain {
     public static void main(String[] args) {
